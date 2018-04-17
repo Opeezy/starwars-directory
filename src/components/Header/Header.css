@@ -8,8 +8,5 @@ src: local('SW FONT'), url('SFDistantGalaxy.ttf') format('truetype');
 h1 {
   font-family: 'SW FONT';
   font-weight: 200;
-  color: white;  
-  padding-bottom: .8em;   
+  color: white;    
 }
-
-
